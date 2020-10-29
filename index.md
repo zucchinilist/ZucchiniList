@@ -11,8 +11,8 @@ Here's what we need:
 - ???
 
 ## Join the listserv
-Let's get started!  Signup is on the left-hand side of the page.
-## **[SIGN UP HERE](https://lists.riseup.net/www/info/zucchinilist)**
+Let's get started! Join the email conversation! 
+## **[SIGN UP HERE](https://lists.riseup.net/www/info/zucchinilist)** 
 
 
 <!--
