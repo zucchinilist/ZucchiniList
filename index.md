@@ -1,3 +1,10 @@
+## This is a section heading
+
+I am editing the text here
+
+- it has multiple
+- bullet points
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zucchinilist/Zucchinilist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
