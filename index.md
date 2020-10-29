@@ -7,7 +7,7 @@ In which we plant and grow a volunteer-run online classifieds for small farmers 
 Here's what we need:
 - database build-out team
 - website build-out team
-- someone who lives in a city that has lots of small farms and who can reach out to them
+- people who live in places with small farms & big gardeners and who can reach out to them
 - help breaking this list down into much more specific tasks so people can find a project for them
 
 ## Join the listserv
