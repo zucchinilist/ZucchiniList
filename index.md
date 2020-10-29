@@ -1,13 +1,21 @@
-## This is a section heading
+## Zucchini List
 
-I am editing the text here
+In which we plant and grow a volunteer-run online classifieds for small farmers and big gardeners. 
 
-- it has multiple
-- bullet points
+## We need YOU!
 
-## Welcome to GitHub Pages
+Here's what we need:
+- a back end (database)
+- a front end (website)
+- a test city
+- ???
 
-You can use the [editor on GitHub](https://github.com/zucchinilist/Zucchinilist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Join the listserv
+Let's get started!  Signup is on the left-hand side of the page.
+**[Sign up here](https://lists.riseup.net/www/info/zucchinilist)**
+
+
+<!--
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -42,3 +50,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
