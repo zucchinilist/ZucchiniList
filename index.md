@@ -12,7 +12,7 @@ Here's what we need:
 
 ## Join the listserv
 Let's get started!  Signup is on the left-hand side of the page.
-**[SIGN UP HERE](https://lists.riseup.net/www/info/zucchinilist)**
+##**[SIGN UP HERE](https://lists.riseup.net/www/info/zucchinilist)**
 
 
 <!--
