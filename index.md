@@ -5,10 +5,10 @@ In which we plant and grow a volunteer-run online classifieds for small farmers 
 ## We need YOU!
 
 Here's what we need:
-- a back end (database)
-- a front end (website)
-- a test city
-- ???
+- database build-out team
+- website build-out team
+- someone who lives in a city that has lots of small farms and who can reach out to them
+- help breaking this list down into much more specific tasks so people can find a project for them
 
 ## Join the listserv
 Let's get started! Join the email conversation! 
